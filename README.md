@@ -9,7 +9,7 @@ A log of my continuous learning post graduation to build a foundation in data an
 ## Databases
 |Resource|Progress|
 |---|---|
-|[Datacamp: Associate Data Analyst in SQL](https://www.datacamp.com/tracks/associate-data-analyst-in-sql)|3/14|
+|[Datacamp: Associate Data Analyst in SQL](https://www.datacamp.com/tracks/associate-data-analyst-in-sql)|4/14|
 
 ## Machine Learning
 
